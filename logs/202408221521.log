@@ -1,0 +1,68 @@
+2024-08-22 15:21:49,377 - BasePage - INFO - Retrieved URL from config: https://xf2.bzsczx.cn/login
+2024-08-22 15:21:50,851 - BasePage - INFO - Opened URL: https://xf2.bzsczx.cn/login
+2024-08-22 15:21:50,874 - login_page - INFO - Navigated to login page and maximized window
+2024-08-22 15:21:50,877 - BasePage - INFO - Attempting to find element located by ('id', 'username').
+2024-08-22 15:21:50,890 - BasePage - INFO - Waited for 10 seconds for element located by ('id', 'username').
+2024-08-22 15:21:50,895 - BasePage - INFO - Element located by ('id', 'username') found successfully.
+2024-08-22 15:21:50,896 - BasePage - INFO - Attempting to find element located by ('id', 'username').
+2024-08-22 15:21:50,900 - BasePage - INFO - Waited for 10 seconds for element located by ('id', 'username').
+2024-08-22 15:21:50,906 - BasePage - INFO - Element located by ('id', 'username') found successfully.
+2024-08-22 15:21:50,999 - BasePage - INFO - Had type ' 18812345678 ' in inputBox
+2024-08-22 15:21:50,999 - login_page - INFO - Entered username: 18812345678
+2024-08-22 15:21:50,999 - BasePage - INFO - Attempting to find element located by ('id', 'password').
+2024-08-22 15:21:51,007 - BasePage - INFO - Waited for 10 seconds for element located by ('id', 'password').
+2024-08-22 15:21:51,012 - BasePage - INFO - Element located by ('id', 'password') found successfully.
+2024-08-22 15:21:51,012 - BasePage - INFO - Attempting to find element located by ('id', 'password').
+2024-08-22 15:21:51,016 - BasePage - INFO - Waited for 10 seconds for element located by ('id', 'password').
+2024-08-22 15:21:51,021 - BasePage - INFO - Element located by ('id', 'password') found successfully.
+2024-08-22 15:21:51,084 - BasePage - INFO - Had type ' qpal20@24 ' in inputBox
+2024-08-22 15:21:51,085 - login_page - INFO - Entered password
+2024-08-22 15:21:51,085 - BasePage - INFO - Attempting to find element located by ('id', 'loginForm_su').
+2024-08-22 15:21:51,093 - BasePage - INFO - Waited for 10 seconds for element located by ('id', 'loginForm_su').
+2024-08-22 15:21:51,097 - BasePage - INFO - Element located by ('id', 'loginForm_su') found successfully.
+2024-08-22 15:21:51,097 - BasePage - INFO - Attempting to find element located by ('id', 'loginForm_su').
+2024-08-22 15:21:51,101 - BasePage - INFO - Waited for 10 seconds for element located by ('id', 'loginForm_su').
+2024-08-22 15:21:51,107 - BasePage - INFO - Element located by ('id', 'loginForm_su') found successfully.
+2024-08-22 15:21:51,147 - BasePage - INFO - The element 'µÇÂ¼' was clicked.
+2024-08-22 15:21:51,147 - login_page - INFO - Clicked btn button
+2024-08-22 15:21:51,147 - BasePage - INFO - Attempting to find element located by ('id', 'btn').
+2024-08-22 15:21:52,084 - BasePage - INFO - Waited for 10 seconds for element located by ('id', 'btn').
+2024-08-22 15:21:52,090 - BasePage - INFO - Element located by ('id', 'btn') found successfully.
+2024-08-22 15:21:52,090 - BasePage - INFO - Attempting to find element located by ('id', 'btn').
+2024-08-22 15:21:52,095 - BasePage - INFO - Waited for 10 seconds for element located by ('id', 'btn').
+2024-08-22 15:21:52,099 - BasePage - INFO - Element located by ('id', 'btn') found successfully.
+2024-08-22 15:21:53,107 - BasePage - ERROR - Failed to click the element with Message: stale element reference: stale element not found
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF764F49642+30946]
+	(No symbol) [0x00007FF764EFE3D9]
+	(No symbol) [0x00007FF764DF6FDA]
+	(No symbol) [0x00007FF764E0963D]
+	(No symbol) [0x00007FF764E0A09A]
+	(No symbol) [0x00007FF764DFE73B]
+	(No symbol) [0x00007FF764DFC506]
+	(No symbol) [0x00007FF764DFFD31]
+	(No symbol) [0x00007FF764DFFDD0]
+	(No symbol) [0x00007FF764E4226B]
+	(No symbol) [0x00007FF764E6CA6A]
+	(No symbol) [0x00007FF764E3BBB6]
+	(No symbol) [0x00007FF764E6CC80]
+	(No symbol) [0x00007FF764E8B041]
+	(No symbol) [0x00007FF764E6C813]
+	(No symbol) [0x00007FF764E3A6E5]
+	(No symbol) [0x00007FF764E3B021]
+	GetHandleVerifier [0x00007FF76507F84D+1301229]
+	GetHandleVerifier [0x00007FF76508BDC7+1351783]
+	GetHandleVerifier [0x00007FF765082A13+1313971]
+	GetHandleVerifier [0x00007FF764F7DD16+245686]
+	(No symbol) [0x00007FF764F0759F]
+	(No symbol) [0x00007FF764F03814]
+	(No symbol) [0x00007FF764F039A2]
+	(No symbol) [0x00007FF764EFA3FF]
+	BaseThreadInitThunk [0x00007FFE5E3053E0+16]
+	RtlUserThreadStart [0x00007FFE5EE2485B+43]
+
+2024-08-22 15:21:53,107 - login_page - INFO - Clicked btn button
+2024-08-22 15:21:55,235 - BasePage - INFO - Screenshot taken and saved to folder: C:\case\BinZhouXiaoFangChaYan\framework\../Screenshots
+2024-08-22 15:21:55,235 - testLogin - INFO - Test Pass.
+2024-08-22 15:21:57,405 - BasePage - INFO - Browser closed.
